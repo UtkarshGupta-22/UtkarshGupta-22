@@ -1,16 +1,148 @@
-## Hi there 👋
+# Utkarsh Gupta
 
-<!--
-**UtkarshGupta-22/UtkarshGupta-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML • Data • Software Engineering
 
-Here are some ideas to get you started:
+Computer Science (Data Science) student building real-world applications across
+Machine Learning, Computer Vision, Generative AI, Data Analytics and Backend Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://utkarshgupta.me) ·
+[LinkedIn](YOUR_LINKEDIN) ·
+[LeetCode](YOUR_LEETCODE) ·
+[Resume](YOUR_RESUME)
+
+---
+
+## What I Work On
+
+**AI / ML**
+Computer Vision · Deep Learning · NLP · Generative AI · RAG · Model Deployment
+
+**Data**
+Python · Pandas · SQL · Power BI · Power Query · DAX · Data Visualization
+
+**Software**
+C++ · Python · FastAPI · Flask · Streamlit · REST APIs · Git · Docker
+
+---
+
+# Featured Projects
+
+## AI / Machine Learning
+
+### NeuroBin
+AI-powered waste segregation system using Computer Vision, Deep Learning,
+Raspberry Pi and embedded automation.
+
+`TensorFlow` `Keras` `OpenCV` `Raspberry Pi` `TensorFlow Lite`
+
+[Repository →](https://github.com/UtkarshGupta-22/NeuroBin-AI-Powered-Smart-Waste-Segregation-System)
+
+### MeetMind
+AI meeting intelligence platform with transcription, summarization,
+RAG chat, risk analysis and automated follow-ups.
+
+`Whisper` `LangChain` `RAG` `ChromaDB` `Mistral` `Streamlit`
+
+[Repository →](https://github.com/UtkarshGupta-22/MeetMind)
+
+### CyberShield
+ML-based fraud detection system with model inference, REST APIs and an
+interactive dashboard.
+
+`Python` `Scikit-learn` `XGBoost` `Flask` `Streamlit` `Docker`
+
+[Repository →](https://github.com/UtkarshGupta-22/CyberShield-Indian-Fraud-Detection-System)
+
+---
+
+## Data & Analytics
+
+### Taxi Ride Analytics
+Interactive Power BI analytics solution for taxi booking data.
+
+`Power BI` `Power Query` `DAX` `Excel` `Python`
+
+[Repository →](https://github.com/UtkarshGupta-22/Taxi-Ride-Analytics-PowerBI-Dashboard)
+
+### Aadhaar Lifecycle Intelligence
+Data analysis project using Aadhaar enrolment and update datasets to derive
+lifecycle indicators and risk segmentation.
+
+`Python` `Pandas` `NumPy` `Data Analysis` `Machine Learning`
+
+[Repository →](https://github.com/UtkarshGupta-22/Data-Analysis-Insights-UIDAI-Hackathon-2026)
+
+---
+
+## Software Engineering
+
+### CineMatch AI
+End-to-end movie recommendation application with FastAPI backend,
+Streamlit frontend, NLP-based recommendations and TMDB integration.
+
+`Python` `FastAPI` `Streamlit` `TF-IDF` `REST API`
+
+[Repository →](https://github.com/UtkarshGupta-22/CineMatch-AI)
+
+### Smart Classroom
+Computer Vision system for automated attendance, phone detection and
+student engagement analysis.
+
+`Python` `YOLOv8` `DeepFace` `MediaPipe`
+
+[Repository →](https://github.com/UtkarshGupta-22/Smart-Classroom-System-for-Enhanced-Learning)
+
+---
+
+# Role → Project Map
+
+| Target Role | Start With |
+|---|---|
+| AI / ML Engineer | NeuroBin · CyberShield · Smart Classroom |
+| GenAI / AI Engineer | MeetMind · CineMatch |
+| Data Scientist | CyberShield · NeuroBin · UIDAI |
+| Data Analyst | Taxi Analytics · UIDAI |
+| Software Engineer | CineMatch · CyberShield · MeetMind |
+| Computer Vision | NeuroBin · Smart Classroom |
+| Backend / Python | CineMatch · CyberShield · MeetMind |
+| Business / Data Analytics | Taxi Analytics · UIDAI |
+
+---
+
+# Problem Solving
+
+500+ DSA problems solved across arrays, strings, hashing, binary search,
+linked lists, trees, graphs, DP and more.
+
+[LeetCode →]([https://leetcode.com/u/utkarshgupta-22])
+
+---
+
+## Achievements
+
+- **2nd Prize — India Innovates 2026 (Urban Solutions)** — Ranked 2nd among 5,000+ participating teams.
+- **Winner — Srijan Tech Hackathon** — 1st place among 500+ teams.
+- **Top 12 — Boeing BUILD 5.0** — Selected among the Top 12 teams from 1,055 teams for the Regional Finals.
+- **Top 15 — National CyberShield Hackathon 2025** — Ranked among the top 15 teams from 300+ teams.
+- **National Finalist — Hult Prize India 2026** — Advanced to the national-level finals.
+- **Semi-Finalist — ET GenAI Hackathon 2026** — Recognized for an AI/GenAI solution.
+- **Finalist — E-Summit IIT Madras 2025–26** — NeuroBin selected as a finalist in the startup bootcamp.
+- **1st Position — Shark Tank, IIM Raipur** — Won the business pitching competition.
+
+---
+
+# Currently Building
+
+- Edge AI and production-ready ML systems
+- Multi-class waste intelligence for NeuroBin
+- Generative AI and RAG applications
+- Backend and API engineering
+
+---
+
+### Open to
+
+AI/ML · Data Science · Data Analytics · Software Engineering ·
+Backend · Generative AI
+
+[Portfolio](https://utkarshgupta.me)
