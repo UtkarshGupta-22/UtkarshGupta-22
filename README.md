@@ -29,16 +29,14 @@ computer vision, generative AI, data analytics, and software engineering.
 
 ---
 
-## What I Work On
+**AI / ML**  
+Computer Vision · Deep Learning · NLP · Generative AI · RAG · Edge AI
 
-**AI / ML**
-Computer Vision · Deep Learning · NLP · Generative AI · RAG · Model Deployment
-
-**Data**
+**Data & Analytics**  
 Python · Pandas · SQL · Power BI · Power Query · DAX · Data Visualization
 
-**Software**
-C++ · Python · FastAPI · Flask · Streamlit · REST APIs · Git · Docker
+**Software Engineering**  
+Python · C++ · FastAPI · Flask · Streamlit · REST APIs · Git · Docker
 
 ---
 
