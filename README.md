@@ -1,14 +1,31 @@
+<table>
+<tr>
+<td valign="center" width="70%">
+
 # Utkarsh Gupta
 
 ### AI/ML • Data • Software Engineering
 
-Computer Science (Data Science) student building real-world applications across
-Machine Learning, Computer Vision, Generative AI, Data Analytics and Backend Engineering.
+B.Tech Computer Science (Data Science) student building practical
+AI/ML systems, data products, and software applications.
+
+I enjoy solving real-world problems through machine learning,
+computer vision, generative AI, data analytics, and software engineering.
 
 [Portfolio](https://utkarshgupta.me) ·
-[LinkedIn](YOUR_LINKEDIN) ·
-[LeetCode](YOUR_LEETCODE) ·
-[Resume](YOUR_RESUME)
+[LinkedIn](https://www.linkedin.com/in/utkarsh-gupta-profile/) ·
+[GitHub](https://github.com/UtkarshGupta-22) ·
+[LeetCode](https://leetcode.com/u/utkarshgupta-22/)
+
+</td>
+
+<td valign="top" width="30%" align="center">
+
+<img src="./profile.jpeg" width="220" alt="Utkarsh Gupta">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,7 +131,7 @@ student engagement analysis.
 500+ DSA problems solved across arrays, strings, hashing, binary search,
 linked lists, trees, graphs, DP and more.
 
-[LeetCode →]([https://leetcode.com/u/utkarshgupta-22])
+[LeetCode →](https://leetcode.com/u/utkarshgupta-22)
 
 ---
 
